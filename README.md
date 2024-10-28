@@ -93,6 +93,15 @@ cd ../frontend
 flutter pub get
 flutter run
 ---
+
+### Contributors 
+
+- **[Adrian Cortes](https://vehikl.com/)**
+- **[Daniel Mendoza](https://github.com/DANYTY-18)**
+- **[Jareth Montalvo](https://github.com/JarethCastells)**
+- **[Monserrat Vite]()**
+
+---
 #### 🤝 Contribuir
 ¡Gracias por tu interés en contribuir! Puedes abrir un issue o enviar un pull request para mejoras y correcciones.
 ---
