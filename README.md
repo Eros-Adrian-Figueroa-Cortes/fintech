@@ -2,15 +2,13 @@
 
 # 💸 Sistema de Control de Gastos Personales
 Versión Móvil, TV y Watch 📱📺⌚
-
-<a href="https://github.com/Eros-Adrian-Figueroa-Cortes/fintech/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<!--<a href="https://github.com/Eros-Adrian-Figueroa-Cortes/fintech/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://github.com/Eros-Adrian-Figueroa-Cortes/"><img src="https://github.com/Eros-Adrian-Figueroa-Cortes/fintech/blob/main/ic0n%24/00001.svg" alt="User"></a>
 <a href="https://github.com/DANYTY-18"><img src="https://github.com/Eros-Adrian-Figueroa-Cortes/fintech/blob/main/ic0n%24/00001.svg" alt="User"></a>
 <a href="https://github.com/JarethCastells"><img src="https://github.com/Eros-Adrian-Figueroa-Cortes/fintech/blob/main/ic0n%24/00001.svg" alt="User"></a>
 <a href="https://github.com/Eros-Adrian-Figueroa-Cortes/"><img src="https://github.com/Eros-Adrian-Figueroa-Cortes/fintech/blob/main/ic0n%24/00001.svg" alt="User"></a>
 <a href="https://github.com/Eros-Adrian-Figueroa-Cortes/fintech"><img src="https://github.com/Eros-Adrian-Figueroa-Cortes/fintech/blob/main/ic0n%24/00002.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>-->
 ---
 
 ## 🎯 Objetivo del Proyecto
